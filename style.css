@@ -1,0 +1,17 @@
+body{
+    background-color: #FF4B91;
+    border: 10px solid black;
+    font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+}
+h1{
+    color: aqua;
+}
+img{
+    border: 10px solid black;
+}
+div{
+    margin-left:70px;
+    margin-top: 10px;
+    
+}
